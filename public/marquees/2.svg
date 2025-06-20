@@ -1,0 +1,5 @@
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <text x="20" y="60" font-family="'Courier New', monospace" font-size="40" fill="white" font-weight="900" letter-spacing="-2">
+    <tspan dy="0">V</tspan><tspan dy="5" dx="-5">E</tspan><tspan dy="-3">R</tspan><tspan dy="7">T</tspan><tspan dy="-4">E</tspan><tspan dy="2">X</tspan>
+  </text>
+</svg>

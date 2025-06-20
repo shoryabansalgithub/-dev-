@@ -1,0 +1,4 @@
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <path d="M30,50 Q50,20 70,50 T110,50" fill="none" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <text x="100" y="80" font-family="'Times New Roman', serif" font-size="40" fill="white" text-anchor="middle" font-weight="100">MOONLIGHT</text>
+</svg>

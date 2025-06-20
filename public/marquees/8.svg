@@ -1,0 +1,6 @@
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <rect x="50" y="30" width="20" height="20" fill="white"/>
+  <rect x="70" y="30" width="20" height="20" fill="white"/>
+  <rect x="90" y="30" width="20" height="20" fill="white"/>
+  <text x="100" y="85" font-family="'Press Start 2P', cursive" font-size="14" fill="white" text-anchor="middle">PIXEL</text>
+</svg>

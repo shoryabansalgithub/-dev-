@@ -1,0 +1,5 @@
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <text x="20" y="60" font-family="'Rockwell', serif" font-size="50" fill="white">
+    <tspan>RI</tspan><tspan dy="10" dx="-5">FT</tspan>
+  </text>
+</svg>

@@ -1,0 +1,5 @@
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <path d="M50,50 C70,30 130,30 150,50" fill="none" stroke="white" stroke-width="2"/>
+  <path d="M140,50 Q145,70 150,50" fill="none" stroke="white" stroke-width="1"/>
+  <text x="100" y="80" font-family="'Palatino', serif" font-size="30" fill="white" text-anchor="middle" font-style="italic">INKWELL</text>
+</svg>

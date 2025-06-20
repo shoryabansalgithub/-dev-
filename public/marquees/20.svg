@@ -1,0 +1,4 @@
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <text x="20" y="70" font-family="'Copperplate Gothic', serif" font-size="50" fill="white" font-weight="bold">INFERNO</text>
+  <path d="M120,60 L130,55 L125,65 Z" fill="white" opacity="0.8"/>
+</svg>

@@ -1,0 +1,4 @@
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <path d="M50,80 L150,80" stroke="white" stroke-width="1" stroke-dasharray="2,2"/>
+  <text x="100" y="50" font-family="'Baskerville', serif" font-size="40" fill="white" text-anchor="middle">ZENITH</text>
+</svg>
